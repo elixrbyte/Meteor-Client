@@ -1,6 +1,8 @@
 # Meteor-Client
 This is a minecraft hack client written in Java 
 # --Tutorial---
+----NOTE: MAKE SURE YOU HAVE JAVA INSTALLED OTHERWISE IT WILL NOT WORK!---
+# Extract the source code.zip (This is so it actually works properly)#
 Just click gradlew.bat
 ![image](https://github.com/elixrbyte/Meteor-Client/assets/142576551/3c629853-eb51-4ce8-a0e4-fe1e507def0c)
 # Open Minecraft
